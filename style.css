@@ -1,0 +1,76 @@
+.btn {
+    background-color: rgb(13, 59, 129);
+}
+
+.logo h6,
+.nav-link-style,
+.exprience-section h4,
+ul li,
+.package-section h4,
+.about-section h3,
+.news-section h4{
+    color: rgb(13, 59, 129);
+}
+
+.logo img {
+    width: 30px;
+    height: 30px;
+}
+
+.banner-section {
+    background-image: url('./img/bg-diving.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+}
+
+
+.img-a {
+    width: 100%;
+    height: 255px;
+}
+
+.img-b,
+.img-c {
+    width: 100%;
+    height: 115px;
+}
+
+.underwater-section {
+    background-image: url('./img/bg-underwater.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+}
+
+.discover-btn button {
+    background-color: transparent;
+}
+
+.about-section {
+    background-color: antiquewhite;
+}
+
+.card-head img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-inline: 40px;
+}
+
+.news-section {
+    background-color: azure;
+}
+.footer-title{
+margin: 30px 30px;
+}
+footer ul li {
+    list-style: none;
+}
+.footer-img{
+    width: 50px;
+    height: 50px;
+}
+.divider{
+    height: 1px;
+}
